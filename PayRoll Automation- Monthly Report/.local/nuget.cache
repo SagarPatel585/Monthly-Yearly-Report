@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gwwpD9ae9ywthWq+sAcjbnIzl0oeu6+OgIGrsXYmHVLs3XDxKPADHMD+r7DPKbEN4QE64B9vGo802rdBnoHkw==",
+  "dgSpecHash": "/+Nth73RephOlxXnvdQPk4je7iF7uBCFbMvS+oJ+aqy45iG0y/ak3VZkS+FJ/Zt7U4DffDp17Z6Zd/KIAaX3QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation\\PayRoll Automation- Monthly Report\\.local\\",
+  "projectFilePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation - Copy\\PayRoll Automation- Monthly Report\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\sagar.patel\\.nuget\\packages\\activitiesnumbertowordscurrency\\1.0.2\\activitiesnumbertowordscurrency.1.0.2.nupkg.sha512",
     "C:\\Users\\sagar.patel\\.nuget\\packages\\anglesharp\\0.9.9\\anglesharp.0.9.9.nupkg.sha512",
@@ -126,7 +126,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation\\PayRoll Automation- Monthly Report\\.local",
+      "filePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation - Copy\\PayRoll Automation- Monthly Report\\.local",
       "message": "Detected package version outside of dependency constraint: Microsoft.Graph 1.9.0 requires Newtonsoft.Json (>= 6.0.1 && < 12.0.0) but version Newtonsoft.Json 13.0.1 was resolved.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
@@ -138,7 +138,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation\\PayRoll Automation- Monthly Report\\.local",
+      "filePath": "C:\\Users\\sagar.patel\\Desktop\\PayRoll-Automation - Copy\\PayRoll Automation- Monthly Report\\.local",
       "message": "Detected package version outside of dependency constraint: Microsoft.Graph.Core 1.9.0 requires Newtonsoft.Json (>= 6.0.1 && < 12.0.0) but version Newtonsoft.Json 13.0.1 was resolved.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
